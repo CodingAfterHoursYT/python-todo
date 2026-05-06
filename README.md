@@ -1,5 +1,5 @@
 # To Do
-This is a simple command line To Do application written in Python. Simply double click on run.bat to run the application.
+This is a simple command line To Do application written in Python. Simply double click on run.bat (Windows) or run.sh (Linux/MacOS) to run the application.
 
 ## Pre-Requisites
 You will need to have Python 3.x installed for this application to run.
