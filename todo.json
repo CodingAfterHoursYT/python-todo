@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Upload a new YouTube video",
+        "completed": false
+    },
+    {
+        "description": "Walk the dog",
+        "completed": false
+    },
+    {
+        "description": "Vacuum the living room",
+        "completed": false
+    }
+]
